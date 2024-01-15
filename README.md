@@ -20,6 +20,8 @@
 #### ⚙️ Engenharia de dados:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+![GCP](https://img.shields.io/badge/Google_Cloud_Platform-GCP-blue?logo=google-cloud&style=flat)
+
 
 
 #### 🎲 Ciência de dados:
@@ -37,3 +39,5 @@
 #### 🌱 Estou aprendendo:
 ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
 ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+
+
